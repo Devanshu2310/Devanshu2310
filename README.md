@@ -15,3 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 [![@devanshu_2310's Holopin board](https://holopin.me/devanshu_2310)](https://holopin.io/@devanshu_2310)
+
+### 🛠 Tech Stack
+![Python](https://img.shields.io/badge/Python-3.9-blue?logo=python)
+![Pandas](https://img.shields.io/badge/Pandas-Data%20Science-yellow?logo=pandas)
+![GitHub](https://img.shields.io/badge/GitHub-Profile-black?logo=github)
